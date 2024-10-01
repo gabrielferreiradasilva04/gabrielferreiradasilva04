@@ -1,8 +1,10 @@
-### Olá! Me chamo Gabriel Silva! E esse é o meu Github. Espero que goste!
+### Olá! Me chamo Gabriel Silva!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-ferreira-da-silva-a0b385233)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielferreiradasilva04&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreiradasilva04&layout=donut-vertical)
 
 ## Tecnologias que eu utilizo
 
